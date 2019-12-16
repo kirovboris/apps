@@ -17,3 +17,12 @@ keywords:
   - 'mobile testing'
   - 'developer tools'
   - 'testing framework'
+screenshots:
+  - imageUrl: 'https://www.devexpress.com/products/testcafestudio/i/testcafe-studio-recorder-electronjs.gif'
+    caption: 'Visual Test Recorder'
+  - imageUrl: 'https://www.devexpress.com/products/testcafestudio/i/Create-stable-tests-with-no-manual-timeouts@2x.png'
+    caption: 'Stable Tests'
+  - imageUrl: 'https://www.devexpress.com/products/testcafestudio/i/Record-tests-instead-of-coding@2x.png'
+    caption: 'Auto-Generated Selectors'
+  - imageUrl: 'https://www.devexpress.com/products/testcafestudio/i/Work-faster-in-a-specialized-environment@2x.png'
+    caption: 'Specialized Testing IDE'
